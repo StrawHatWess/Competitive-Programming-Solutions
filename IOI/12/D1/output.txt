@@ -1,0 +1,37 @@
+right
+
+b:
+
+right
+
+d:
+
+pebble e
+jump f
+e:
+get
+left 
+left
+
+h:
+move
+border g
+jump h
+g:
+
+put
+left 
+left
+
+f:
+
+border c
+move
+jump d
+c:
+
+border a
+move
+jump b
+a:
+

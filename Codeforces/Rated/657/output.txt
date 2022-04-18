@@ -1,0 +1,11 @@
+Yes
+abacaba
+Yes
+abacaba
+Yes
+abaaabacaba
+Yes
+abacabacaba
+No
+Yes
+abacabacaba
